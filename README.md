@@ -55,7 +55,7 @@ The goal of this project is to:
 - Data Visualization Best Practices
 
 📷 Dashboard Preview
-
+Dashboard[https://github.com/Chaithra-Shree-B/FUTURE_DS_03/blob/main/Dashboard.png]
 
 🚀 Business Impact
 - This dashboard enables marketing teams to:
